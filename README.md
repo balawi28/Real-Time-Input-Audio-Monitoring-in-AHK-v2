@@ -8,6 +8,9 @@ Real-Time Input Audio Monitoring in AHK v2
 - Amplitude Monitoring: Displays the current amplitude of the selected input device in a progress bar.
 - Real-time Updates: Continuously updates the amplitude display in real-time.
 
+## Implementation Details
+This script utilizes the WinAPI Multimedia functions (winmm.dll) for audio recording and device management. The AudioRecorder class leverages functions such as waveInOpen, waveInPrepareHeader, and waveInStart to handle low-level audio input operations.
+
 ## Requirements
 - AutoHotkey v2.0
 
