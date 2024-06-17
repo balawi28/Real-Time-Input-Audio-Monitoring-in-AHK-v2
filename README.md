@@ -1,5 +1,4 @@
-# Real-Time AHK- v2 Input Audio Monitoring
-Real-Time Input Audio Monitoring in AHK v2
+# Real-Time AHK v2 Input Audio Monitoring
 
 ![animation](https://github.com/balawi28/Real-Time-AHK-v2-Input-Audio-Monitoring/assets/41299807/bb0e7fd5-2120-4ae4-91ea-63c32b4c916c)
 
